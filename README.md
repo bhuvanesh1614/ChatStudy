@@ -92,12 +92,12 @@ server:
 
 server:
 
-<img width="631" height="285" alt="image" src="https://github.com/user-attachments/assets/590a6f90-955d-4eeb-8de8-dc16cbb912dc" />
+<img width="1332" height="291" alt="image" src="https://github.com/user-attachments/assets/0151b3f0-183b-40ad-b3e0-4778a59a1dc4" />
 
 
 client:
 
-<img width="572" height="205" alt="image" src="https://github.com/user-attachments/assets/f70aa8cf-0f6f-4c72-a049-f904be649445" />
+<img width="1336" height="285" alt="image" src="https://github.com/user-attachments/assets/745487ab-8fd2-46f5-bb9b-68b89b08c934" />
 
 
 
